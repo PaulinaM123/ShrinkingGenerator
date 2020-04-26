@@ -1,0 +1,38 @@
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\bin\Debug\Generator.exe.config
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\bin\Debug\Generator.exe
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\bin\Debug\Generator.pdb
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Właściwości.g.cs
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Generator_MarkupCompile.cache
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Generator_MarkupCompile.lref
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Właściwości.baml
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Generator.g.resources
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Generator.Properties.Resources.resources
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Generator.csproj.GenerateResource.Cache
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Generator.csproj.CoreCompileInputs.cache
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Generator.exe
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Generator.pdb
+C:\Users\PM\Desktop\Dysk Google\Nauka\semestr 5\Podstawy Ochrony Danych\Laboratorium_5\Generator\obj\Debug\Generator.csprojResolveAssemblyReference.cache
+C:\Users\PM\Desktop\Generator\bin\Debug\Generator.exe.config
+C:\Users\PM\Desktop\Generator\bin\Debug\Generator.exe
+C:\Users\PM\Desktop\Generator\bin\Debug\Generator.pdb
+C:\Users\PM\Desktop\Generator\obj\Debug\Generator.csprojResolveAssemblyReference.cache
+C:\Users\PM\Desktop\Generator\obj\Debug\MainWindow.g.cs
+C:\Users\PM\Desktop\Generator\obj\Debug\Właściwości.g.cs
+C:\Users\PM\Desktop\Generator\obj\Debug\Zasada_działania.g.cs
+C:\Users\PM\Desktop\Generator\obj\Debug\App.g.cs
+C:\Users\PM\Desktop\Generator\obj\Debug\Generator_MarkupCompile.cache
+C:\Users\PM\Desktop\Generator\obj\Debug\Generator_MarkupCompile.lref
+C:\Users\PM\Desktop\Generator\obj\Debug\MainWindow.baml
+C:\Users\PM\Desktop\Generator\obj\Debug\Właściwości.baml
+C:\Users\PM\Desktop\Generator\obj\Debug\Zasada_działania.baml
+C:\Users\PM\Desktop\Generator\obj\Debug\Generator.g.resources
+C:\Users\PM\Desktop\Generator\obj\Debug\Generator.Properties.Resources.resources
+C:\Users\PM\Desktop\Generator\obj\Debug\Generator.csproj.GenerateResource.Cache
+C:\Users\PM\Desktop\Generator\obj\Debug\Generator.csproj.CoreCompileInputs.cache
+C:\Users\PM\Desktop\Generator\obj\Debug\Generator.exe
+C:\Users\PM\Desktop\Generator\obj\Debug\Generator.pdb
